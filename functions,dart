@@ -1,0 +1,7 @@
+void main(){
+    final greeting =great("mario", 24);
+    print(greeting);
+}
+great(name,age){
+    return "hi am $name";
+}
